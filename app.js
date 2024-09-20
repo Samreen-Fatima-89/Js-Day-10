@@ -57,3 +57,6 @@
 // else{
 //     alert("not bad...")
 // }
+
+var num1 = +prompt("Enter your num");
+var num2 = +prompt("Enter your num");
